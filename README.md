@@ -1,2 +1,2 @@
 # ManualDeCuidadoPerruno
-Pagina de Manual dee cuidado perruno
+Pagina de Manual de cuidado perruno
